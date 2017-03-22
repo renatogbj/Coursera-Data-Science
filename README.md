@@ -40,7 +40,7 @@ For this first programming assignment you will write three functions that are me
 
 The zip file containing the data can be downloaded here:
 
-> https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip
+> [data](https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip)
 
 The zip file contains 332 comma-separated-value (CSV) files containing pollution monitoring data for fine particulate matter (PM) air pollution at 332 locations in the United States. Each file contains data from a single monitor and the ID number for each monitor is contained in the file name. For example, data for monitor 200 is contained in the file "200.csv". Each file contains three variables:
 
@@ -97,7 +97,7 @@ Write the following functions:
 
 Please download this document for detailed instructions about the assignment:
 
-> https://d3c33hcgiwev3.cloudfront.net/_c79abb16c67d30f2dc8785e5abcf70d4_ProgAssignment3.pdf?Expires=1490313600&Signature=dXM7ZP6iwIo6Vgf0qOFbdvCwWe3Vi9ewlo1G2acbtfuOlgre8CmkLzxEfLYAZDDz3fJ9eYBT9LAeHDnFBzL8YVTJ-W8wbL2UOliMfLmf5zT~XC5fQ7y3HoW2--o9DMy0p0J9y4Yzd5bHM9BMQiFR8Sk6quzvek21G-Lc55Dwpf4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+> [data](https://d3c33hcgiwev3.cloudfront.net/_c79abb16c67d30f2dc8785e5abcf70d4_ProgAssignment3.pdf?Expires=1490313600&Signature=dXM7ZP6iwIo6Vgf0qOFbdvCwWe3Vi9ewlo1G2acbtfuOlgre8CmkLzxEfLYAZDDz3fJ9eYBT9LAeHDnFBzL8YVTJ-W8wbL2UOliMfLmf5zT~XC5fQ7y3HoW2--o9DMy0p0J9y4Yzd5bHM9BMQiFR8Sk6quzvek21G-Lc55Dwpf4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 #### Data
 
@@ -140,5 +140,24 @@ directory containing the 'UCI HAR Dataset' folder with all the data files.
 ## Exploratory Data Analysis
 
 ### Programming Assignment 1
+
+#### Introduction
+
+This assignment uses data from
+the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/), a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
+
+* Dataset: [Electric power consumption](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip) [20Mb]
+
+* Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+
+#### Making Plots
+
+Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system. For each plot you should:
+
+* Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.
+
+* Name each of the plot files as `plot1.png`, `plot2.png`, etc.
+
+* Create a separate R code file (`plot1.R`, `plot2.R`, etc.) that constructs the corresponding plot, i.e. code in `plot1.R` constructs the `plot1.png` plot. Your code file **should include code for reading the data** so that the plot can be fully reproduced. You should also include the code that creates the PNG file.
 
 ### Programming Assignment 2
