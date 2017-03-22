@@ -97,13 +97,13 @@ Write the following functions:
 
 Please download this document for detailed instructions about the assignment:
 
-> [data](https://d3c33hcgiwev3.cloudfront.net/_c79abb16c67d30f2dc8785e5abcf70d4_ProgAssignment3.pdf?Expires=1490313600&Signature=dXM7ZP6iwIo6Vgf0qOFbdvCwWe3Vi9ewlo1G2acbtfuOlgre8CmkLzxEfLYAZDDz3fJ9eYBT9LAeHDnFBzL8YVTJ-W8wbL2UOliMfLmf5zT~XC5fQ7y3HoW2--o9DMy0p0J9y4Yzd5bHM9BMQiFR8Sk6quzvek21G-Lc55Dwpf4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+> [Instructions](https://d3c33hcgiwev3.cloudfront.net/_c79abb16c67d30f2dc8785e5abcf70d4_ProgAssignment3.pdf?Expires=1490313600&Signature=dXM7ZP6iwIo6Vgf0qOFbdvCwWe3Vi9ewlo1G2acbtfuOlgre8CmkLzxEfLYAZDDz3fJ9eYBT9LAeHDnFBzL8YVTJ-W8wbL2UOliMfLmf5zT~XC5fQ7y3HoW2--o9DMy0p0J9y4Yzd5bHM9BMQiFR8Sk6quzvek21G-Lc55Dwpf4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 #### Data
 
 The zip file containing the data for this assignment can be downloaded here:
 
-> Programming Assignment 3 Data
+> [data](https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2FProgAssignment3-data.zip)
 
 ## Getting and Cleaning Data
 
