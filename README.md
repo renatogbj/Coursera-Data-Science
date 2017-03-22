@@ -1,31 +1,30 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Coursera Data Science](#)
-	- [The Data Scientist’s Toolbox](#)
-	- [R Programming](#)
-		- [Programming Assignment 1](#)
-			- [Introduction](#)
-			- [Data](#)
-			- [Part 1](#)
-			- [Part 2](#)
-			- [Part 3](#)
-		- [Programming Assignment 2](#)
-			- [Introduction](#)
-			- [Caching the Inverse of a Matrix](#)
-		- [Programming Assignment 3](#)
-			- [Detailed Instructions](#)
-			- [Data](#)
-	- [Getting and Cleaning Data](#)
-		- [Programming Assignment 1](#)
-			- [Human Activity Recognition Using Smartphones Tidy Data Set](#)
-			- [Why the data is tidy?](#)
-			- [The script](#)
-	- [Exploratory Data Analysis](#)
-		- [Programming Assignment 1](#)
-		- [Programming Assignment 2](#)
-
 # Coursera Data Science
 Material and assignments from the Coursera Data Science specialization from Johns Hopkins University.
+
+**Table of Contents**
+
+- [The Data Scientist’s Toolbox](#)
+- [R Programming](#)
+	- [Programming Assignment 1](#)
+		- [Introduction](#)
+		- [Data](#)
+		- [Part 1](#)
+		- [Part 2](#)
+		- [Part 3](#)
+	- [Programming Assignment 2](#)
+		- [Introduction](#)
+		- [Caching the Inverse of a Matrix](#)
+	- [Programming Assignment 3](#)
+		- [Detailed Instructions](#)
+		- [Data](#)
+- [Getting and Cleaning Data](#)
+	- [Programming Assignment 1](#)
+		- [Human Activity Recognition Using Smartphones Tidy Data Set](#)
+		- [Why the data is tidy?](#)
+		- [The script](#)
+- [Exploratory Data Analysis](#)
+	- [Programming Assignment 1](#)
+	- [Programming Assignment 2](#)
 
 ## The Data Scientist’s Toolbox
 
